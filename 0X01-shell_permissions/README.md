@@ -9,3 +9,4 @@ everybody
 007
 JD
 mirror
+allow all
