@@ -8,3 +8,4 @@ multiple permissions
 everybody
 007
 JD
+mirror
