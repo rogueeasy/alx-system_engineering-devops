@@ -5,3 +5,4 @@ new owner
 empty
 execute
 multiple permissions
+everybody
