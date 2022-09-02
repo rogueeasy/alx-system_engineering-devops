@@ -10,3 +10,5 @@ everybody
 JD
 mirror
 allow all
+permission and directories
+to change a group
